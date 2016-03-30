@@ -1,4 +1,6 @@
 # pokemonHA
+
+[![Join the chat at https://gitter.im/Bart274/pokemonHA](https://badges.gitter.im/Bart274/pokemonHA.svg)](https://gitter.im/Bart274/pokemonHA?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 pokemon simulator for Home-Assistant.io
 
 Use config.txt to see the example config for HA.
